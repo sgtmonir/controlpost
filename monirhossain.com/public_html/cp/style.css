@@ -510,6 +510,10 @@ body.mobile-nav-active .menu-trigger span {
     .grid-entry.big-title .grid-title h2 {
         font-size: 37px;
     }
+    footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 }
 
 @media screen and (max-width: 479px) {
@@ -518,6 +522,10 @@ body.mobile-nav-active .menu-trigger span {
         width: 50%;
         margin: 0 !important;
     } 
+        .header-section{
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
 }
 @media (max-width: 678px){
     .clients-img {
