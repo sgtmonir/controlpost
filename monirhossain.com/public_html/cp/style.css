@@ -27,6 +27,9 @@ a:hover{
     border-bottom: 2px solid #000;
     padding-top: 15px;
 }
+.cp-contact .cp-divider{
+    margin-top: 0;
+}
 .cp-fw-600{
     font-weight: 600;
 }
