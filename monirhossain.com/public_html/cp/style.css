@@ -451,11 +451,11 @@ body.mobile-nav-active .menu-trigger span {
         margin-bottom: 50px;
     }
     .header-section{
-        padding-top: 40px;
-        padding-bottom: 40px;
+        padding-top: 30px;
+        padding-bottom: 30px;
     }
     div#logo {
-        width: 70%;
+        width: 50%;
         margin: auto !important;
     } 
     .cp-about-text h1{
