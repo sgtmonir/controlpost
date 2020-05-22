@@ -517,6 +517,9 @@ body.mobile-nav-active .menu-trigger span {
     footer p {
     font-size: 12px;
 }
+    #contact h2 {
+    margin-bottom: 80px;
+}
 }
 
 @media screen and (max-width: 479px) {
