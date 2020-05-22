@@ -514,6 +514,9 @@ body.mobile-nav-active .menu-trigger span {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+    footer p {
+    font-size: 12px;
+}
 }
 
 @media screen and (max-width: 479px) {
